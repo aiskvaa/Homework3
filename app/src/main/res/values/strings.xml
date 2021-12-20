@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Homework3</string>
+    <string name="image_2">image #2</string>
+    <string name="image_3">image #3</string>
+    <string name="lana_del_rey">lana del rey</string>
+    <string name="olivia_rodrigo">Olivia Rodrigo</string>
+    <string name="adele">Adele</string>
+    <string name="image_1">image #1</string>
+</resources>
